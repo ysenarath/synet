@@ -10,7 +10,7 @@ with open('packages.txt') as fh:
 
 setuptools.setup(
     name="synet",
-    version="0.0.1",
+    version="0.0.2",
     author="Yasas Senarath",
     author_email="ysenarath.93@gmail.com",
     description="Knowledge API for Natural Language Processing",
