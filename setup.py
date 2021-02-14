@@ -13,7 +13,7 @@ setuptools.setup(
     version="0.0.1",
     author="Yasas Senarath",
     author_email="ysenarath.93@gmail.com",
-    description="Minimal Annotation Framework",
+    description="Knowledge API for Natural Language Processing",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ysenarath/cynet",
